@@ -10,7 +10,9 @@ Extracts the contents of .TLC archives into individual files. The archives
 don't seem to include file names, so output files are numbered according to
 their position in the table of contents.
 
-More?
------
+CBMExtract
+----------
 
-Looks like CBM is just a wrapper around JPEG. That'll probably be next.
+Extracts the contents of .CBM archives into individual .JPG files. The
+archives don't include file names, so output images are numbered according to
+their position in the table of contents.
